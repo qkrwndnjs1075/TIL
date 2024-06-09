@@ -13,7 +13,7 @@ SOLID는 각 5가지원칙의 첫글자를 따서 붙인 이름이다.
 - **L**SP(Liskov Substitution Principle, 리스코프 치환 원칙)
 - **D**IP(Dependency Inversion Principle, 의존성 역전 원칙)
 
-## **S**RP(Single Responsibility Principle, ********단일 책임 원칙)
+## **S**RP(Single Responsibility Principle, 단일 책임 원칙)
 
 단일 책임 원칙은 하나의 클래스는 하나의 책임만 갖는다는 것이다.
 
