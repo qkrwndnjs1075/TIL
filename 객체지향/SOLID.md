@@ -7,7 +7,7 @@
 
 SOLID는 각 5가지원칙의 첫글자를 따서 붙인 이름이다.
 
-- **S**RP(Single Responsibility Principle, 단일 책임 원칙)   
+- **S**RP(Single Responsibility Principle, 단일 책임 원칙)    
 - **O**CP(Open-Closed Principle, 개방 폐쇄 원칙)
 - **I**SP(Interface Segregation Principle, 인터페이스 분리 원칙)
 - **L**SP(Liskov Substitution Principle, 리스코프 치환 원칙) 
