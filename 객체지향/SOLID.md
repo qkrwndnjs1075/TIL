@@ -5,7 +5,7 @@
 객체지향 5원칙은 SOLID 원칙이라고도 부르며,
 객체지향 프로그래밍을 하며 꼭 지켜야하는 5개의 원칙이다. 
    
-SOLID는 각 5가지원칙의 첫글자를 따서 붙인 이름이다.  
+SOLID는 각 5가지원칙의 첫글자를 따서 붙인 이름이다.   
    
 - **S**RP(Single Responsibility Principle, 단일 책임 원칙) 
 - **O**CP(Open-Closed Principle, 개방 폐쇄 원칙)      c
